@@ -1,0 +1,15 @@
+.btn-default {
+    margin: 5px 10px;
+    border-radius: 5px;
+}
+.navbar {
+    min-height: 20px;
+}
+#nav {
+    margin-left: 10px;
+    width: 560px;
+}
+img {
+    align-content: center;
+    margin-left: 15%;
+}
